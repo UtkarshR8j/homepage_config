@@ -1,0 +1,14 @@
+
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/services/
+
+- DNS:
+    - AdGuard-Home:
+        icon: adguard-home.png
+        href: https://dns.terranserver.site
+        widget:
+          type: adguard
+          url: https://dns.terranserver.site
+          username: utkarsh
+          password: utkarsh1850

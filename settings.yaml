@@ -1,0 +1,11 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/settings/
+
+title: Terra
+Description: Utkarsh's homepage
+favicon: https://utkarshr8j.github.io/favicon.ico
+base: https://terranserver.site
+providers:
+  openweathermap: openweathermapapikey
+  weatherapi: weatherapiapikey

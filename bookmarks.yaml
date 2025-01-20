@@ -1,0 +1,15 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/bookmarks
+
+- Auth:
+    - 2FA:
+        - abbr: 2FA
+          href: https://auth.terranserver.site
+          #siteMonitor: https://auth.terranserver.site
+- Memos:
+    - Memos:
+        - abbr: Memo
+          href: https://memos.terranserver.site
+          #siteMonitor: https://memos.terranserver.site
+
